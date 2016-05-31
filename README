@@ -1,3 +1,16 @@
+# Basic goals
+
+1. Math
+2. Scientific terminology
+3. Transpiling to programming languages
+4. ... [what you think should be here]
+
+# How to contribute
+
+Provide precise description of every your commit.
+
+# Building
+
 To make all the versions (which it will try to install into
 ~/public_html/media/public/cll_build/ ) do:
 
